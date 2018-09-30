@@ -1,0 +1,618 @@
+\n • Element and effects depend on current weapon. 
+\n • Weapon effects are stronger than usual.
+\n • Low accuracy. 
+\n • High accuracy. 
+\n • Super high accuracy. 
+\n • High critical hit rate. 
+\n • Hits a new foe if the target is killed.
+\n • Chooses a new target if the target dies.
+Limit Break! 
+ It can also target all foes for even damage. 
+ It can also be focused on a single target for more damage.
+" May make enemies surrender, even strong ones. "
+" Hits a single target 3 times, moving onto a new foe if the target dies."
+ Gets an extra hit for every foe killed.
+" Dispels all foes, cancelling their buffs and positive status effects."
+" One arrow is fired for each foe, but they hit random targets."
+\n • Has a 1-turn cooldown. 
+\n • Has a 2-turn cooldown. 
+\n • Has a 3-turn cooldown. 
+\n • Has a 5-turn cooldown. 
+\n • Has a 10-turn cooldown. 
+Defend
+All damage taken is reduced by 50% for one turn. Some equips add extra effects.
+Switch Player
+Select a different player to use next. This action does not cost a turn.
+Flee
+Run away from this battle. There is no penalty for doing so.
+Skip Turn
+Skip this player\'s turn without doing anything.
+Scan Foes
+"Scan all foes on the field, revealing their weaknesses. This data is stored forever in the bestiary."
+Capture Foe
+Attempt to capture a foe. Damaged foes with status problems are easier to capture. Some foes can\'t be captured.
+Bring in Matt
+Move a player to backup and bring in Matt. This action does not cost a turn.
+Bring in Natalie
+Move a player to backup and bring in Natalie. This action does not cost a turn.
+Bring in Lance
+Move a player to backup and bring in Lance. This action does not cost a turn.
+Bring in Anna
+Move a player to backup and bring in Anna. This action does not cost a turn.
+Bring in NoLegs
+Move a player to backup and bring in NoLegs. This action does not cost a turn.
+Normal Attack
+Strike a target with a basic sword attack.
+Tremor
+Basic earth attack which hits a single target.
+Quake
+Advanced earth attack which hits a single target.
+Cataclysm
+Very powerful earth attack which hits a single target.
+Geyser
+Basic water attack which hits a single target.
+Torrent
+Advanced water attack which hits a single target.
+Typhoon
+Powerful water attack which hits a single target.
+Tundra
+Advanced ice attack which hits a single target.
+Iceberg
+Powerful ice attack which hits a single target.
+Magma
+Advance fire attack which hits a single target.
+Eruption
+Powerful fire attack which hits a single target.
+Nettle
+Basic bio attack which hits a single target.
+Overgrowth
+Powerful bio attack which hits a single target twice.
+Slicing Cyclone
+Powerful attack which hits all enemies several times.
+Steal Item
+Steals a random item from a single target. Better items can be stolen when this skill is levelled up.
+Legend
+Very powerful attack which hits a single target multiple times.
+Light Blade
+Advanced holy attack which hits a single target.
+Seiken
+Powerful holy attack which hits a single target.
+Unleash
+An attack that unleashes the hidden potential of your weapon.
+Quick Slash
+Attack a single target with super high accuracy.
+Temper
+"Buffs an ally\'s attack power, and gives them brave status. "
+Revenge
+"A potentially devastating attack which hits a single target. Its power increases if Matt\'s HP is low, and if his allies are dead. The power listed below is the maximum possible."
+Cleaver
+"Deals incredible physical damage to a single target, with multiple slashes."
+Ragnarok
+"Hits all foes with massive non-elemental physical damage, and then buffs the attack power of all allies, and gives them brave status."
+Normal Attack
+"Strike a target with a basic physical attack, which unleashes the magic power of your weapon."
+Cleanse
+"Dispels an ally\'s debuffs, heals their status problems, and also gives them blessed status."
+Lucky Star
+Basic non-elemental magic which deals very random damage to a single target.
+Star Shower
+Powerful non-elemental magic which hits all foes and deals very random damage.
+Star Power
+"Buffs an ally\'s magic attack, and gives them good-luck status."
+Toxic
+Simple bio magic which strongly poisons a single target.
+Fire
+Basic fire magic which hits a single target.
+Fireball
+Advanced fire magic which hits a single target.
+Fire Storm
+Powerful fire magic which hits all enemies.
+Thunder
+Basic thunder magic which hits a single target.
+Thunderbolt
+Advanced thunder magic which hits a single target.
+Thunder Storm
+Powerful thunder magic which hits all enemies.
+Ice
+Basic ice magic which hits a single target.
+Iceshard
+Advanced ice magic which hits a single target.
+Ice Storm
+Powerful ice magic which hits all enemies.
+Dark Pulse
+Advanced dark magic which hits a single target.
+Pulsar
+Very powerful dark magic which hits all enemies.
+Spectrum
+Advanced magic which hits a single target.
+Rainbow Blast
+Powerful magic which hits all enemies.
+Holy Light
+Advanced holy magic which hits a single target.
+Judgement
+Very powerful holy magic which blasts a single target and drains their HP.
+Mute
+"Syphons a single foe, making them unable to use most magical attacks."
+Syphon
+"Syphons all foes, making them unable to use most magical attacks. Can also target a single foe for a stronger syphoning effect."
+Genesis
+"Deals massive holy damage to all enemies, and revives or gives auto-revive status to all allies."
+7th Heaven
+"Heals all allies\' HP and status problems, and buffs their attack, magic attack, defence, and magic defence. \n • Works on backup allies too. \n • Gives lovable status to Natalie."
+Normal Attack
+Strike a target twice with a basic melee attack.
+Snipe
+Shoot a single target with a super high accuracy attack.
+Double Shot
+An attack which shoots a single target twice.
+Unload
+Very powerful attack which shoots a target 6 times.
+Flame Shot
+Basic fire shot which hits a single foe.
+Flame Burst
+Advanced fire shot which hits all enemies.
+Bullet Hell
+"Powerful fire shot which centers on one foe, with others taking 1/3 of the damage."
+Plasma Shot
+Basic thunder shot which hits a single foe.
+Plasma Wave
+Advanced thunder shot which hits all enemies.
+Plasma Field
+"Powerful thunder shot which centers on one foe, with others taking 1/3 of the damage. "
+Dark Shot
+Basic dark shot which hits a single foe.
+Gravity Surge
+Advanced dark shot which hits all enemies.
+Antimatter Flux
+"Powerful dark shot which centers on one foe, with others taking 1/3 of the damage."
+Poison Gas
+"Strongly poisons all enemies, and deals some magical bio damage."
+Big Bomb
+Blasts a single foe with big magical bomb damage.
+Air Strike
+Blasts all foes with big magical bomb damage.
+M.O.A.B
+Blasts all foes with massive magical bomb damage. Takes a very long time to recharge.
+Medipack
+Heals one ally and removes any status problems they have. 
+Health Strike
+Heals all allies and removes any status problems they have. 
+Machine Guns
+Shoots all enemies repeatedly with bomb attacks.
+Armor Crush
+"Smashes a target with a melee attack, and dispels them."
+Hyper Beam
+"Takes two turns to use: Charges on the first use, and fires on the second use. Deals huge magical damage to all enemies."
+Nuke
+"Deals massive magical fire damage to all enemies, and burns all players and foes."
+\n • Replaces the current weather with radiation for 5 turns. 
+Oblivion
+"Deals massive physical bomb damage to all foes. This destroys Lance\'s tank, but he\'s got spares."
+Normal Attack
+Cut a target with a basic melee attack.
+Bow Whack
+"Smack a foe with your bow, causing them to consider surrendering. Even strong foes are not immune."
+Gust
+Basic wind magic which hits a single target.
+Whirlwind
+Advanced wind magic which hits a single target.
+Hurricane
+Powerful wind magic which hits all enemies.
+Log
+Basic earth attack which hits a single target.
+Lumber
+Powerful earth attack which hits a single target several times.
+Leaf Blade
+Simple bio attack which hits a single target twice.
+Razor Leaf
+Powerful bio attack which hits all enemies several times.
+Blessed Arrow
+Advanced holy attack which hits a single foe.
+Frost Arrow
+Advanced ice attack which hits a single foe.
+Aqua Arrow
+Advanced water attack which hits a single foe.
+Nitro Arrow
+Advanced bomb attack which hits a single foe.
+Spark Arrow
+Advanced thunder attack which hits a single foe.
+Blessed Barrage
+Powerful holy attack:
+Frost Flurry
+Powerful ice attack:
+Aqua Volley
+Powerful water attack:
+Nitro Blitz
+Powerful bomb attack:
+Spark Shower
+Powerful thunder attack:
+Piercing Shot
+Attack with a super high accuracy shot.
+Combo Shot
+Attack with a powerful and accurate blast from multiple arrows.
+Arrow Rain
+Attack with a volley of arrows which hit all enemies multiple times.
+Renew
+Simple healing magic which heals one ally.
+Refresh
+"Advanced healing magic which heals one ally, and gives them blessed status."
+Mother Earth
+Deals massive magical bio damage to all foes and poisons them. \n • Blesses all allies.
+\n • Clears the weather for 5 turns.
+Mighty Oak
+"Deals massive physical earth damage to all foes, with several powerful hits."
+Normal Attack
+Stab a target with a quick ambush attack from behind.
+Swordplay
+Basic attack which hits a single foe with 4 slashes.
+Blade Blitz
+Powerful attack which hits a single foe with 11 frenzied slashes.
+Swift Slash
+A super fast slash attack which hits all enemies.
+Nine Lives
+"Heals all allies, gives them auto-revive status, and revives dead allies too. Takes a long time to recharge."
+Star Blast
+Hits all enemies with magical non-elemental damage. Takes a long time to recharge.
+Jump Attack
+Basic melee attack:
+Sword Dance
+Advanced melee attack:
+Final Cutter
+Powerful melee attack:
+Shadow Strike
+Advanced dark attack:
+Twilight Tango
+Powerful dark attack:
+Sacred Strike
+Advanced holy attack:
+Divine Divide
+Powerful holy attack:
+Lightning Strike
+Advanced thunder attack:
+Bolt Boogie
+Powerful thunder attack:
+Wispy Strike
+Advanced wind attack:
+Tornado Tantrum
+Powerful wind attack:
+Bubbly Strike
+Advanced water attack:
+Water Whirl
+Powerful water attack:
+Sushi Cat
+"Bounces around, hitting 3 random foes with magical damage, and healing the 2 most damaged players."
+Sushi Cat!
+"Bounces around, hitting 3 random foes with magical damage, and healing the 2 most damaged players. \n • Gives the players good luck."
+Berserk
+"Berserks a target, player or foe, causing them to attack constantly with increased power. "
+Raging Force
+Gives berserk status to all players. It can also be focused on one player or one foe for a stronger effect. 
+Cherish
+"Makes the target lovable, causing them to be untargettable by single-target attacks. "
+Loving Aura
+Gives lovable status to all players. It can also be focused on one player for a stronger effect. 
+The Creator
+Deals massive magical holy damage to all enemies. \n • Gives good luck to all allies.
+\n • Clears the weather for 5 turns.
+The Destroyer
+"Deals massive physical dark damage to all enemies, with several hits."
+Snow Bunnies
+Ice magic which hits all enemies.
+Snow Cats
+"Strong ice magic which hits all enemies, and sets up freezing combos."
+Ivy
+Bio attack which hits a single target.
+Vines
+Strong bio attack which hits a single target several times.
+Energy
+Basic bomb magic which hits a single target.
+Energy Bomb
+Advanced bomb magic which hits a single target.
+Energy Barrage
+Powerful bomb magic which hits all enemies.
+Bubble
+Basic water magic which hits a single target.
+Whirlpool
+Advanced water magic which hits a single target.
+Bubble Blast
+Powerful water magic which hits all enemies.
+Shock
+Advanced thunder attack which hits a single target.
+Surge
+Powerful thunder attack which hits a single target.
+Bullet Bob
+Advanced bomb attack which hits a single target.
+Big Bullet
+Powerful bomb attack which hits a single target.
+Gale
+Advanced wind attack which hits a single target.
+Tempest
+Powerful wind attack which hits a single target.
+Power Metal
+"Deals magical wind damage to all foes, and heals all allies."
+Air
+Basic wind magic which hits a single target.
+Airwave
+Advanced wind magic which hits a single target.
+Shockwave
+Powerful wind magic which hits all enemies.
+Sawblade
+Advanced non-elemental attack which hits a single target.
+Shredder
+Powerful non-elemental attack which hits all enemies.
+Gaia Seed
+Basic earth magic which hits a single target.
+Gaia Bloom
+Advanced earth magic which hits a single target.
+Gaia Blossom
+Powerful earth magic which hits all enemies.
+Fire Spin
+Strong fire magic which hits all enemies.
+Purging Flame
+Holy magic which dispels a single target and debuffs their magic attack.
+Screamer
+Deals magical dark damage to all enemies and debuffs their attack.
+Heal
+Simple healing magic which heals one ally.
+Heal More
+Powerful healing magic which heals all allies. It can also target a single ally for concentrated healing.
+Revive
+"Revives a dead ally, or gives auto-revive status to a living one. "
+Purify
+Heals the common status problems of either all allies or all foes. Does not include neutral statuses like wet or dry. 
+Lock On
+"Buffs an ally\'s accuracy, and gives them good luck. "
+Protect
+"Buffs the defence of all allies, including those in backup."
+Barrier
+"Buffs the magic defence of all allies, including those in backup."
+Reflex
+"Buffs the evade of all allies, including those in backup, and also cures shroud status for active allies. "
+Heavenly Shield
+Buffs an ally\'s defence and magic defence. 
+Dispel
+"Dispels all foes, cancelling their buffs and positive status effects. It can also be used on all allies to cancel their debuffs. "
+Flare
+Debuffs the accuracy of all enemies.
+Bind
+Debuffs the evade of all enemies.
+Debilitate
+Debuffs the defence of all enemies.
+Enfeeble
+Debuffs the magic defence of all enemies.
+Giga Drill
+"Powerful earth attack which hits a single target. Does much more damage if the target has buffed defence or magic defence, or is defending. "
+Encore
+Gives an ally an extra turn. Using this on yourself is pointless.
+Absolute Zero
+"Deals big magical ice damage to all foes, debuffs their evade, and freezes them. \n • Reduces all active cooldowns by 2 turns."
+Tsunami
+"Deals massive physical or magical water damage to all foes, and makes them wet. \n • Damage is based on highest stat."
+Supernova
+"Deals massive magical fire damage to all foes and allies, and burns them. \n • Cannot be evaded."
+Death Metal
+Deals massive magical wind damage to all foes. Heals all allies and gives them morale status.
+Annihilate
+Attack with a high chance of instantly killing all foes. Does not work well on bosses and has low accuracy.
+Ion Cannon
+"Deals massive magical thunder damage to all foes, and may stun them. \n • Also charges Lance\'s Hyperbeam attack."
+Black Hole
+"Deals massive magical dark damage to all foes, and makes them heavy. Also kills the user."
+Hidden Power
+Deals massive physical or magical damage to all foes. \n • Damage is based on highest stat.
+Bones
+Bone Star
+Undead Blade
+Falling Star
+Fire Rock
+Stalactite
+Stalactites
+Fiery Fume
+Eruption
+Scalding Fume
+Rain
+Sandstorm
+Hail
+Nitro Burn
+Burning Acid
+Acid Blast
+Bamboo
+Bamboo Trap
+Blue Bolt
+Bubble Ring
+Deep Freeze
+Wafer
+Surprise Present
+Plasma Cage
+Tank Cannon
+Candy Canes
+Bone Fish
+Rice Ball Bomb
+Sand Puff
+Sand Dune
+Mushroom
+Life Drain
+Smoke Puff
+Confusion
+Ink Blob
+Chocolate Blob
+Tentacles
+Slow Down
+Speed Up
+Poison Root
+Burning Root
+Sea Root
+Bomb Blast
+Big Blast
+Cactus
+Cacti
+Spark
+Big Spark
+Talisman Seal
+Electron Gun
+Ember
+Flame Blast
+Fire Crystals
+Zephyr Crystals
+Sudden Frost
+Rockslide
+Avalanche
+Black Spikes
+Stone Fist
+Spider Web
+Spider Swarm
+Geometry
+Space Distortion
+Distortion Field
+Sacrifice
+Big Root
+The Reaper
+Sea Bomb
+Fairy Bomb
+Fly Bomb
+Star Punch
+Invisibility
+Enchantment
+"Spits at a single target, dealing physical earth damage and debuffing their accuracy."
+Uses basic ice magic which chills a single target.
+Uses a basic bio attack which may stun a single target.
+Uses a basic fire attack which dries a single target.
+Uses a weak thunder attack which always stuns a single target.
+Uses a pathetically weak water attack on a single target.
+Uses a basic bio attack on a single target.
+"Gives regenerate status to all allies, including those in backup, healing them over several turns."
+Replaces the current weather with hot ash for 5 turns.
+Replaces the current weather with a blizzard for 5 turns.
+Replaces the current weather with an electric field for 5 turns.
+Replaces the current weather with an earthquake for 5 turns.
+Replaces the current weather with stormy winds for 5 turns.
+Replaces the current weather with breezy weather for 5 turns.
+Replaces the current weather with heavy rain for 5 turns.
+Replaces the current weather with strong sunlight for 5 turns.
+Replaces the current weather with acid rain for 5 turns.
+"Stings with an advanced earth attack, which may stun the target."
+"Stings with an advanced ice attack, which may chill the target."
+Cuts a single target with an advanced non-elemental attack.
+Bounces into a target 3 times with powerful non-elemental attacks.
+"Smashes into a target with a powerful wind attack, which also staggers the target."
+Explodes with a powerful bomb blast which also stuns the target.
+"Nukes all enemies with a powerful thunder blast, which may also stagger them."
+"Blasts a single target with a powerful burst of water, which may also make the target wet. "
+"Gives the lovable status to all allies, making enemies hesitant to attack them directly."
+"Leaps at a target with a fire attack, which burns them."
+"Leaps at a target with an ice attack, which freezes them."
+"Leaps at all enemies with a deafening thunder attack, which may stagger them."
+"Hits all foes with evil holy magic, which curses them."
+"Buffs the attack of all allies, including those in backup, and then attacks a foe several times."
+"Screams at the enemies, debuffing their attack power slightly."
+"Screams at the enemies, debuffing their defence slightly."
+"Hisses viciously at the enemies, debuffing their evade slightly."
+"Screams at the enemies, debuffing their magic attack slightly."
+"Hisses viciously at the enemies, debuffing their magic defence slightly."
+"Smashes a target repeatedly with powerful thunder attacks, which may also stun them."
+"Chills all enemies with powerful ice magic, and replaces the current weather with huge hail for 5 turns."
+"Smashes all enemies repeatedly with powerful non-elemental attacks, which may also stagger them."
+"Flies into the enemies at supersonic speeds, which may make them lighter."
+"Blasts all enemies with a holy magic beam, which may make them dry."
+Spams bullets at all enemies with a simple bomb attack.
+"Gives good luck status to all allies, including those in backup, improving their chances in random events."
+"Gives doom status to all enemies, causing them to die instantly after 3 turns."
+"Gives berserk status to all allies, making them attack uncontrollably with increased power."
+"Inverts the buffs of all allies, turning negatives into positives, and vice versa."
+"Inverts the buffs of all enemies, turning negatives into positives, and vice versa."
+"Inverts the buffs of a single foe or ally, turning negatives into positives, and vice versa."
+"Slashes a foe with a wind attack, and gives morale status to all allies, including those in backup."
+"Attacks an enemy with a slicing holy attack, which may kill them instantly."
+Gracefully dispels the debuffs of all active allies.
+"Dries all enemies with a fire attack, and replaces the current weather with a sandstorm for 5 turns."
+"Jabs a foe with a dark attack, and gives brave status to all allies, including those in backup."
+"Hits a foe with some weak bio magic, making them very tired."
+"Hits a foe with some weak fire magic, making them very dry."
+"Hits a foe with some weak dark magic, giving them very bad luck."
+"Hits a foe with some weak bomb attacks, making them very weakened."
+"Gives haste status to all allies, basically giving them an extra turn each."
+"Gives defend status to all allies, which offers massive protection for a turn."
+"Nukes the battlefield with a tremendous dark magic blast, which hits all foes."
+"Gives light status to all allies, including those in backup, protecting them from earth damage."
+"Gives dry status to all allies, including those in backup, protecting them from thunder and ice damage."
+"Gives heavy status to all allies, including those in backup, protecting them from wind damage."
+"Gives blessed status to all allies, including those in backup, protecting them from all status effects."
+"Gives blessed status to all allies, including those in backup, protecting them from all status effects."
+"Gives enchanted status to all allies, making them immune to magical damage for a turn, but also weak against physical attacks."
+"Gives invisible status to all allies, making them immune to physical damage for a turn, but also weak against magical attacks."
+"Bites a foe with a powerful dark attack, which also curses them."
+"Body slams one foe for massive non-elemental physical damage, with other foes taking 1/3 of the damage."
+"Buffs the magic defence of all allies, including those in backup, and then hits all foes with an earth attack."
+"Buffs the defence of all allies, including those in backup, and then hits all foes with magical bomb blasts."
+"Spits ink at a foe for massive magical dark damage, which also debuffs the target\'s accuracy and makes them invisible."
+"Debuffs the accuracy of all foes, and may also give them doom status."
+"Stabs all foes with powerful thunder attacks, and totally stuns them."
+"Dispels all foes first, and then unleashes a blizzard of intense non-elemental attacks on all of them."
+Uses a powerful bio attack which hits a single foe and may stun them.
+Uses a powerful fire attack which hits a single foe and burns them severely.
+"Uses mushroom bio attacks on all foes, which may stun them with spores."
+"Chills all foes with weak ice magic, setting up water and ice combos."
+"Pukes chocolate all over the foes, dealing magic earth damage and making them all heavy."
+Uses a weak non-elemental web attack to drastically debuff a foe\'s evade.
+"Gives wet status to all allies, including those in backup, protecting them from fire damage."
+"Uses a weak non-elemental bite attack, which gives the target a deadly virus."
+"Heals the neutral status effects of all allies, including: Wet, Chill, Dry, Heavy, Light, Enchanted and Invisible."
+"Attacks an enemy with a heart-piercing ice attack, which may kill them instantly."
+"Attacks an enemy with hellish fire magic, which gives them berserk status. \n • It\'s best if the target does not survive."
+"Blasts a foe several times with bomb attacks, which may stagger them and debuff their defence."
+"Shoots a foe several times with bio attacks, which will poison them and debuff their magic defence."
+"Uses dark magic on a single foe, which strongly syphons them."
+???-?eII ITEM NOT FOUND! ### \nERROR: 0x000002
+??-//WARNING: WARANTY ##VOID## IF SEAL ##BROKEN##!! 0?-//??
+"Gives invisible status to one foe, making them take double damage from magical attacks for one turn."
+"Gives enchanted status to one foe, making them take double damage from physical attacks for one turn."
+"Gives brave status to all allies, including those in backup, increasing their luck with critical hits."
+"Gives morale status to all allies, including those in backup, protecting them from 1-hit deaths."
+"Instantly kills all foes, or if that fails, hits them with some physical dark damage."
+"Smashes all foes with powerful fire magic, which also burns them."
+"Bites a foe several times, for super massive physical ice damage."
+"Debuffs the magic defence of all foes, and then spits the deadliest acid, dealing magical bio damage to all of them."
+"Debuffs the defence of all foes, and then attacks with a hurricane of feathers, dealing physical wind damage to all of them."
+"Debuffs the attack power of all foes, and then blasts them with massive magical water damage, which also makes them wet."
+"Debuffs the magic attack of all foes, and then nukes them with huge magical holy damage, which may also stun them."
+"Drains HP from a target with a simple bio attack, and gives it to the summoning player."
+"Gives chill status to all allies, including those in backup, protecting them from bio damage."
+"Gives confused status to all active allies for many turns, basically initiating auto-battle mode.  \n • Don\'t try this on a boss."
+"Gives virus status to all allies, even if they have resistance to it."
+"Mauls a foe with non-elemental attacks. Does much more damage if the user is hurt, and if party members are dead. \n • The max power is 1000."
+"Pummels all foes with an avalanche of ice attacks, which may also freeze them."
+"Stabs all foes with a barrage of bio attacks, which may also poison them."
+"Casts a barrier spell, which buffs the magic defence of all allies, including those in backup."
+"Casts a protective spell, which buffs the defence of all allies, including those in backup. "
+"Casts a powerful healing spell, which heals all allies."
+"Assaults a foe with a fire attack, which debuffs their defence and may burn them."
+"Assaults a foe with a wind attack, which debuffs their magic defence and may stun them."
+"Splashes all foes with weak water magic, which makes them all wet, and sets up ice and thunder combos."
+"Poisons all foes with weak bio magic, dealing some damage to them every turn."
+"Leaps at a target with a water attack, which staggers them."
+"Hits all foes with wind magic, which strongly syphons them."
+"Hits all foes with a d20, dealing very random magical fire damage, and burning them."
+"Hits all foes with physical earth damage, which makes them tired."
+Leaps at a single target and deals massive physical earth damage if it hits.
+Replaces the current weather with cherry blossom for 5 turns.
+"Shoots a foe in the face, with very low accuracy, killing it instantly if it hits."
+"Casts a simple healing spell, which heals an ally."
+"Throws a bomb at a foe, dealing magical damage and staggering them."
+Slashes a foe with a sequence of non-elemental attacks.
+"Strongly buffs the attack power of an ally, and gives them blessed status."
+"Strongly buffs the magic attack of an ally, and gives them morale status."
+"Hits all foes with strong bomb magic, which may stagger them."
+"Attacks with a piercing bio arrow, which does more damage if the target has buffed defence or magic defence, or is defending."
+"Meows hauntingly at the enemies, debuffing their evade and giving them bad luck."
+"Deals massive magical bomb damage to all foes with several hits, which may also stun them."
+"Smashes a foe repeatedly with powerful ice attacks, with other foes taking 1/3 of the damage too. \n • All foes may be frozen. "
+"Slams a foe repeatedly with powerful fire attacks, with other foes taking 1/3 of the damage too. \n • All foes may be burned. "
+"Smashes all foes with incredibly powerful water attacks, which may also wet them."
+"Blasts all foes with incredibly powerful fire attacks, which also burn any survivors."
+"Buffs the magic attack of all allies, including those in backup, and then cuts through all foes with a barrage of bio attacks. "
+"Hits all foes with incredibly powerful dark magic, which curses them."
+Smashes all foes one by one with incredibly powerful earth attacks.
+Blasts all foes one by one with incredibly powerful holy magic.
+Explodes all foes one by one with incredibly powerful bomb magic.
+Cuts through all foes one by one with incredibly powerful wind attacks.
+"Uses the strongest magic in the universe, and nukes all foes with crazy non-elemental damage."

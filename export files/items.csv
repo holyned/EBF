@@ -1,0 +1,340 @@
+Pumpkin
+"Heals an ally for 300 HP, or 20% of their max HP. Whichever is higher."
+Pineapple
+"Heals an ally for 1000 HP, or 40% of their max HP. Whichever is higher."
+Watermelon
+"Heals an ally for 3000 HP, or 60% of their max HP. Whichever is higher."
+Dragon Fruit
+"Heals an ally for 10000 HP, or 80% of their max HP. Whichever is higher."
+Raspberries
+"Heals all living party members for 200 HP, or 20% of their max HP. Whichever is higher."
+Blueberries
+"Heals all living party members for 1000 HP, or 30% of their max HP. Whichever is higher."
+Cloudberries
+"Heals all living party members for 6000 HP, or 40% of their max HP. Whichever is higher."
+Crisps
+"Reduces the cooldowns of all allies by 1, and stuffs them for 1 turn."
+Chips
+"Heals all living party members for 60% of their max HP, and stuffs them for 2 turns."
+Pretzel
+"Heals the debuff problems of all allies, and stuffs them for 2 turns."
+Hamburger
+"Fully heals an ally, reduces their cooldowns by 3, and stuffs them for 3 turns."
+Pizza
+"Fully heals all living party members, reduces their cooldowns by 3, and stuffs them for 3 turns. Very rare."
+Chili Pepper
+Fills up an ally\'s Limit Bar instantly and also scorches them. Very rare.
+Garlic
+Heals an ally\'s status problems.
+Apple
+Reduces an ally\'s cooldowns by 1.
+Cupcake
+"Reduces an ally\'s cooldowns by 2, and stuffs them for 3 turns."
+Banana
+Heals an ally\'s debuff problems.
+Coffee
+Revives a fallen ally with 30% HP.
+Espresso
+Revives a fallen ally with 100% HP and buffs their HP by 50%. Very rare.
+Beer
+Buffs an ally\'s attack by 60%.
+Cola
+Buffs an ally\'s magic attack by 60%.
+Iron Brew
+Buffs an ally\'s accuracy by 60%.
+Energy Drink
+Buffs an ally\'s evade by 60%.
+Orange Juice
+Buffs an ally\'s maximum HP by 100%. Very rare.
+Crispy Bacon
+Permanently increases Matt\'s attack and defence by 2%.
+Raw Beef
+Permanently increases Matt\'s magic attack and magic defence by 2%.
+Chicken Leg
+Permanently increases Matt\'s evade and accuracy by 1%.
+Fried Egg
+Permanently increases Matt\'s health points by 2%.
+Poptart
+Permanently increases Natalie\'s attack and defence by 2%.
+Donut
+Permanently increases Natalie\'s magic attack and magic defence by 2%.
+Cake
+Permanently increases Natalie\'s evade and accuracy by 1%.
+Lollipop
+Permanently increases Natalie\'s health points by 2%.
+Bread
+Permanently increases Lance\'s attack and defence by 2%.
+Potato
+Permanently increases Lance\'s magic attack and magic defence by 2%.
+Red Pill
+Permanently increases Lance\'s evade and accuracy by 1%.
+Mushroom
+Permanently increases Lance\'s health points by 2%.
+Turnip
+Permanently increases Anna\'s attack and defence by 2%.
+Grapes
+Permanently increases Anna\'s magic attack and magic defence by 2%.
+Mint Leaf
+Permanently increases Anna\'s evade and accuracy by 1%.
+Hard Nut
+Permanently increases Anna\'s health points by 2%.
+Sushi
+Permanently increases NoLegs\' attack and defence by 2%.
+Riceball
+Permanently increases NoLegs\' magic attack and magic defence by 2%.
+Yoghurt
+Permanently increases NoLegs\' evade and accuracy by 1%.
+Chocolate Milk
+Permanently increases NoLegs\' health points by 2%.
+Snowball
+Pretty common and not very useful. Can be thrown in battle.
+Brick
+Put them together to build a house. Can be thrown in battle.
+Shuriken
+A blade thrown by anime fans. Can be thrown in battle.
+Hand Bomb
+A compact ball of explosive power. Can be thrown in battle.
+Wool
+I guess you could make a sweater out of this.
+Earth Ball
+It\'s a fine chunk of dirt. Truly a valuable treasure.
+Turd
+There better be a good reason for collecting these.
+Sea Shell
+Some creature used to live in this. It\'s dead now.
+Cactus
+A spiky plant that holds a lot of water.
+Iron Plate
+A weight used by people who want to level up their bodies.
+White Feather
+Used for fancy hats and culturally appropriating birds.
+Spring
+Used in many types of machines to add bounciness.
+Soft Wood
+A pleasant type of wood used for decorations.
+An Herb
+A plant with medical and recreational uses.
+Super Tape
+Fixes things that move when they shouldn\'t.
+Gash Root
+The roots of some horrible weed.
+Gunpowder
+"Explosive powder used to, well... explode things."
+Jungle Flower
+A rare flower with an extraordinary scent.
+Copper Pipe
+Not the other kind that makes your kids stupid.
+Geode
+"A natural crystal formation, found in nature."
+Glass Shards
+"It\'s a solid, yet it\'s crystal clear. What madness."
+Fine Fur
+Fluffy fur from some unlucky animal.
+Butterfly Wing
+"A light and beautiful wing, hacked off some poor bug."
+Rainbow Ore
+Some mixture of colorful gems. This rock can\'t decide what to be.
+Liquid Ice
+A rare form of ice only found in warm climates.
+Solid Water
+A rare form of water only found in cold climates.
+Belt Buckle
+RPG characters need a lot of these.
+Steel Plate
+A powerful yet reasonably affordable crafting material.
+Magma Chunk
+A ball of material pooped out by the earth.
+Floppy
+"Previously known as \""the save icon\""."
+Silk
+Fine silk for fancy clothing. Made by worms.
+Metal Gear
+Used in clockwork and ridiculously huge weapons.
+Plastic
+"A futuristic material with many applications, from soft clothes to solid armor."
+Amber
+There\'s something very old trapped inside.
+Leather
+"Animals were harmed in the making of this item, for sure."
+Bio Virus
+Probably not a good idea to keep this in your pocket.
+Razor Claw
+"A rock hard claw, broken off from some fierce monster."
+Sacred Rune
+Strange markings coat this mystic rock.
+Bone Spike
+Is it a tooth? A claw? A knee?
+Silver Plate
+"Not quite gold, but still pretty valuable."
+Satin
+A really posh material used for dresses and such.
+Ruby
+A fiery gem that bursts with energy.
+Topaz
+I don\'t think they made a P*kemon game out of this gem.
+Sapphire
+A gem that reminds you of the deep sea... and drowning.
+Emerald
+A green and tranquil gem.
+Gold Plate
+A pretty material which signifies wealth. Not very strong though.
+Dark Rune
+A mysterious artifact said to have fallen from the sky.
+P2 Processor
+An electronic circuit that crunches numbers very fast.
+Nano Fibre
+Strong cloth made using high-tech nanotechnology.
+Opal
+A rare and colorful stone.
+Lecko Brick
+It\'s a brick made from smaller bricks! And it\'s compatible with other brands!
+Moon Pearl
+A large pearl that looks a bit like the moon.
+Dragon Scales
+Hardened dragon skin used for armor.
+Game Child
+A video game console now only found in museums.
+Titanium
+An incredibly strong crafting material.
+Diamond
+Devalued a bit since kids started mining it everywhere.
+Dark Matter
+A mysterious form of matter which holds galaxies together.
+Plutonium Core
+Highly regulated material used for nuclear weapons.
+The Holy Grail
+A legendary relic. Let\'s melt it down for materials!
+Mythril Shards
+A mythical and unbreakable material used in the finest weapons.
+Star Fragment
+A piece of an actual star. It\'s incredibly dense!
+Old Boots
+Allows the party to grip the ground firmly while pushing blocks around.
+Spiked Boots
+Allows the party to walk on ice without sliding. But they might not work in some dungeons...
+Thermal Boots
+Allows the party to walk on magma. They\'ll still take some fire damage though...
+Leafy Boots
+Allows the party to walk on lily pads in water.
+Winged Boots
+Allows the party to walk through the air on small clouds.
+Magnetic Boots
+Allows the party to stop moving on metal plates after stepping onto a booster tile.
+Rubber Boots
+Allows the party to walk on acidic tiles. But there aren\'t any of those in the game at the moment.
+The Raft
+Allows the party to sail the wild waters to new lands. They\'re free from the landlubber life now!
+The Shovel
+Allows the party to destroy dangerous dirt-balls and snow-balls.
+The Stepladder
+"Allows the party to fix some gaps in broken bridges, and reach new areas."
+The Hammer
+Allows the party to smash cracked boulders which block paths.
+The Axe
+Allows the party to cut down some small trees which block paths.
+The Big Hammer
+Allows the party to smash huge red crystals which block paths.
+The Candle
+Allows the party to light up torches and to see better in the dark.
+Scouter
+"Allows the party to use the Scan ability during battle, showing the power level of enemies."
+Diamond Key
+Use this to remove a single Diamond Block from the Forgotten Temple.
+Wooden Key
+Use this to remove a single Wooden Block from the Mystic Woods.
+Gold Key
+Use this to remove a single Gold Block from the Grand Gallery.
+Coral Key
+Use this to remove a single Coral Block from the Rainbow Islands.
+Topaz Key
+Use this to remove a single Topaz Block from Redpine Town.
+Copper Key
+Use this to remove a single Copper Block from Anna\'s house.
+World Map
+"Allows you to take notes of places you\'ve been, and of points of interest. Viewable in the map menu."
+Nether Map
+Is this a treasure map? Doesn\'t look like it shows anywhere on this planet.
+The Fishing Rod
+"Allows the party to - oh, it\'s just a quest item. It was originally going to do something though."
+Earth Orb
+Contains the sturdy essence of rocks as ancient and wise as the earth itself.
+Wind Orb
+"Contains the forceful essence of a hurricane, the power of an atmosphere in motion."
+Water Orb
+"Contains the mysterious essence of the deepest, most unexplored waters on the planet."
+Fire Orb
+"Contains the burning essence of an erupting volcano, tearing the land apart."
+Flute
+This was apparently stolen. But what does it do?
+Ocarina
+Plays tunes that manipulate time. The team doesn\'t have any musical talent though.
+Music CD
+Some people still write their music onto these weird discs for safekeeping.
+Stick
+If you collect enough of these you can start a fire and cook some chow.
+Wooden Plank
+Looks like someone might need these to build a house.
+Panties
+"It\'s always good to carry a spare pair around, especially on a long adventure."
+Stone Head
+"A carving of Poseidon, the guardian of the sea. Six of these exist."
+Earthenware
+A strange clay statue. It looks mighty old and may be valuable.
+Newspaper
+"\""Huge Meteorite Strikes the Southern Continent and Worldwide Chaos Ensues!\"""
+Meow Magazine
+"Let\'s save this for later. Maybe we\'ll get some quiet time alone to \""read\"" it."
+Snail Mail
+"There\'s some urgent news in here, apparently not worthy of a phone call."
+Golden Ticket
+These can be redeemed for free gear from the Warrior\'s Guild. You\'re not a member though.
+Green Keycard
+Don\'t question why some monsters carry these. They\'re just for a quest.
+Empty Bottle
+"It used to contain something interesting, but its role in this story is now over."
+Holy Water
+"It\'s just a bottle of water, right? What\'s holy about it?"
+Lava Sample
+"There\'s lakes of lava around, but this sample is apparently special."
+Bottled Milk
+Straight from a... goat?
+Evil Essence
+"A bottle full of badness, the opposite of goodness."
+Fairy Dust
+"A bottle full of shiny, glittery stuff."
+Big Battery
+Big enough to power an electric car or killer drone.
+Emerald of Life
+"\""Be happy for this moment. This moment is your life.\"""
+Sapphire of Dreams
+"\""Trust in dreams, for in them is hidden the gate to eternity.\"""
+Ruby of Death
+"\""Death is the wish of some, the relief of many, and the end of all.\"""
+Sunglasses
+Gives resistance to being blinded by the sun.
+Glasses
+Some old guy is probably looking for these right now.
+Left Sock
+"Exactly what it looks like. Nothing more, nothing less."
+Right Sock
+"It looks used, so maybe it\'s best not to wear it... or even pick it up at all."
+Star Ball
+"A mysterious orange ball that fell from the sky. If all of these are collected, something may happen."
+Cool Headband
+Wear this to show off how serious you are about life.
+Cookie
+"Looks delicious but smells a bit funny. What\'s in this, anyway?"
+Chocolate
+"Tempting as it is, it\'s best not to eat it. It might make a good bribe for the right person."
+Tomato
+Just a tomato.
+Popcorn
+A single piece of popcorn. You\'ll need a lot of these to make a meal.
+Halloween Candy
+Foes only drop this stuff during the spooky month. It\'s awful - that\'s why you give it to kids.
+Candy Cane
+Foes only drop these around Christmas time. Somehow they can track the time of human holidays.
+Heart Chocolate
+Foes only drop these around Valentine\'s Day. You can give these to your mom.
+Easter Egg
+"Foes only drop these when they\'re ovulating, which is once per year."
